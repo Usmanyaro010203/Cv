@@ -1,0 +1,13 @@
+img{
+    border-radius: 50%;
+   width: 40%
+}
+
+.space{
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #bc6666;
+}
+body{
+    background-color: azure;
+}
